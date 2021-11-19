@@ -1,0 +1,25 @@
+{
+  "name": "ITTest",
+  "version": "1.0.0",
+  "description": "高中信息技术",
+  "main": "index.js",
+  "author": "zangke168@foxmail.com",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "serve": "vitepress serve"
+  },
+  "devDependencies": {
+    "prettier": "^2.4.1",
+    "vite-plugin-components": "^0.13.3",
+    "vite-plugin-icons": "^0.6.5",
+    "vitepress": "^0.14.1",
+    "vite-plugin-windicss": "^1.5.1",
+    "windicss": "^3.2.1"
+  },
+  "dependencies": {
+    "@iconify/json": "^1.1.431",
+    "@vueuse/core": "^6.9.2"
+  }
+}
